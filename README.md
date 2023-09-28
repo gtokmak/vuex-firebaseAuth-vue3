@@ -1,4 +1,4 @@
-# vuex-auth-app
+# vuex-firebaseauth-vue3-app
 
 ## Project setup
 ```
