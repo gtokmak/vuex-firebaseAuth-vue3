@@ -7,10 +7,6 @@ export default createStore({
     kullanici: null
   },
   getters: {
-      getKullanici(state){
-        console.log("getteers:",state.kullanici)
-          return state.kullanici
-      }
   },
   mutations: {
     kullaniciDegistir(state, payload){
